@@ -1,5 +1,5 @@
 Reinforcement learning mountain car problem.
-Julian Lehnen - William Lopez
+William Lopez
 
 Requirements:
 
